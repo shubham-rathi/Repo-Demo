@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 50B3-8609
+
+ Directory of D:\WFH\Git
+
+29-04-2020  20:00    <DIR>          .
+29-04-2020  20:00    <DIR>          ..
+29-04-2020  20:00                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  397,438,005,248 bytes free
