@@ -1,0 +1,8 @@
+Getting Started:
+Step 1: Check if git is already installed
+Step 2: download and install git
+Step 3: add your project to git
+Step 4: commands
+	- git init(checking folders and files)
+	- git status
+	- git add
