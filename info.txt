@@ -5,4 +5,5 @@ Step 3: add your project to git
 Step 4: commands
 	- git init(checking folders and files)
 	- git status
-	- git add
+	- git add filename
+	- git commit -m "..."
