@@ -1,0 +1,9 @@
+More Basic Git Commands:
+1) git rm --cached <file-name>
+	To remove files from staging area
+2) git branch <branch-name>
+	To create a new Branch with name as branch_name
+3) git checkout <branch_name>
+	To switch from current branch to another
+4) git merge <branch_name>
+	To merge a branch into current branch

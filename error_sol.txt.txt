@@ -1,2 +1,0 @@
-How to remove currently created .git using git init filename?
---> rm -rf filename
