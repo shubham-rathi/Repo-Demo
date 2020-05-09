@@ -14,3 +14,6 @@ Step 5: publish to GitHub
 	If already created origin then,
 	- git pull --allow-unrelated-histories https://github.com/shubham-rathi/Repo-Demo.git
 	- git push -u origin master
+	If want to commit new branch
+	- git checkout user1
+	- git push -u origin user1
