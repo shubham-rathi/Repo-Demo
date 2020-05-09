@@ -17,3 +17,5 @@ Step 5: publish to GitHub
 	If want to commit new branch
 	- git checkout user1
 	- git push -u origin user1
+	If you merge and compare your changes from one branch to master;
+	- git pull (for changes to reflect into local repo)
