@@ -7,3 +7,10 @@ Step 4: commands
 	- git status
 	- git add filename
 	- git commit -m "..."
+Step 5: publish to GitHub
+	- git remote add origin '<https: .git>'
+	- git remote -v
+	- git push -u origin master
+	If already created origin then,
+	- git pull --allow-unrelated-histories https://github.com/shubham-rathi/Repo-Demo.git
+	- git push -u origin master
