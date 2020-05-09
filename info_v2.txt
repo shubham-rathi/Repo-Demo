@@ -8,3 +8,6 @@ More Basic Git Commands:
 4) git merge <branch_name>
 	To merge a branch into current branch
 5) create .gitignore file to not go into the staging area also
+	create .gitignore
+	add filename into .gitignore file
+	git push
