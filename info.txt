@@ -7,3 +7,6 @@ Step 4: commands
 	- git status
 	- git add filename
 	- git commit -m "..."
+Step 5: publish to GitHub
+	- git remote add origin '<https: .git>'
+	- git remote -v
