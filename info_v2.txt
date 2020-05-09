@@ -7,3 +7,4 @@ More Basic Git Commands:
 	To switch from current branch to another
 4) git merge <branch_name>
 	To merge a branch into current branch
+5) soon
