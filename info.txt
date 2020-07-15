@@ -6,8 +6,10 @@ Step 4: commands
 	- git init(checking folders and files)
 	- git status
 	- git add filename
-	- git commit -m "..."
-Step 5: publish to GitHub
+	- git commit -m "..."(message)
+Step 5: If you want to clone\download files on some git server
+	- git clone <https: .git>
+Step 6: publish to GitHub
 	- git remote add origin '<https: .git>'
 	- git remote -v
 	- git push -u origin master
@@ -19,3 +21,6 @@ Step 5: publish to GitHub
 	- git push -u origin user1
 	If you merge and compare your changes from one branch to master;
 	- git pull (for changes to reflect into local repo)
+
+Step 7: If you want to check commit history
+	- git log
